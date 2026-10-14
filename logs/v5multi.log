@@ -1,0 +1,3 @@
+v5multi 3 final 2.324e-08 all 8.598e-09 flops 5.873e+11 (26.71%) resid 611ms wall 101.5s
+v5multi 4 final 2.148e-08 all 8.479e-09 flops 5.585e+11 (25.40%) resid 634ms wall 123.1s
+v5multi 5 final 1.953e-08 all 7.664e-09 flops 5.554e+11 (25.26%) resid 611ms wall 110.3s

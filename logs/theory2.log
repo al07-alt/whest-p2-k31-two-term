@@ -1,0 +1,18 @@
+71s
+k(post h_k) | lam_true(z_{k+1}) ratio-of-means | identity | n_eff | skew slope true | identity
+z0  lam_true -0.0000  identity -0.0001 | n_eff  1007 | skew slope true -0.0198 identity 0.0068 | corr(gamma,alpha) -0.007
+z1  lam_true 0.0095  identity 0.0093 | n_eff   659 | skew slope true 0.0094 identity 0.0096 | corr(gamma,alpha) 0.677
+z2  lam_true 0.0165  identity 0.0163 | n_eff   430 | skew slope true 0.0135 identity 0.0136 | corr(gamma,alpha) 0.827
+z3  lam_true 0.0220  identity 0.0216 | n_eff   312 | skew slope true 0.0161 identity 0.0162 | corr(gamma,alpha) 0.873
+z4  lam_true 0.0272  identity 0.0270 | n_eff   244 | skew slope true 0.0190 identity 0.0193 | corr(gamma,alpha) 0.906
+z5  lam_true 0.0309  identity 0.0304 | n_eff   196 | skew slope true 0.0212 identity 0.0216 | corr(gamma,alpha) 0.919
+z6  lam_true 0.0347  identity 0.0338 | n_eff   165 | skew slope true 0.0226 identity 0.0230 | corr(gamma,alpha) 0.931
+z7  lam_true 0.0380  identity 0.0378 | n_eff   140 | skew slope true 0.0240 identity 0.0248 | corr(gamma,alpha) 0.935
+z8  lam_true 0.0412  identity 0.0409 | n_eff   122 | skew slope true 0.0250 identity 0.0261 | corr(gamma,alpha) 0.935
+z9  lam_true 0.0433  identity 0.0430 | n_eff   105 | skew slope true 0.0255 identity 0.0273 | corr(gamma,alpha) 0.946
+z10 lam_true 0.0461  identity 0.0462 | n_eff    91 | skew slope true 0.0263 identity 0.0284 | corr(gamma,alpha) 0.951
+z11 lam_true 0.0505  identity 0.0496 | n_eff    83 | skew slope true 0.0274 identity 0.0298 | corr(gamma,alpha) 0.947
+z12 lam_true 0.0542  identity 0.0536 | n_eff    69 | skew slope true 0.0275 identity 0.0307 | corr(gamma,alpha) 0.948
+z13 lam_true 0.0564  identity 0.0556 | n_eff    61 | skew slope true 0.0285 identity 0.0315 | corr(gamma,alpha) 0.947
+z14 lam_true 0.0591  identity 0.0588 | n_eff    56 | skew slope true 0.0291 identity 0.0325 | corr(gamma,alpha) 0.948
+z15 lam_true 0.0602  identity 0.0600 | n_eff    55 | skew slope true 0.0300 identity 0.0335 | corr(gamma,alpha) 0.947

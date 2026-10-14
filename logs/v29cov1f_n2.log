@@ -1,0 +1,3 @@
+net 2 l=5 | fixed two-term 58% | V29 form cS 52% b=[0.013] | rad 52% b=[0.0246] | rad+lat 59% b=[0.0223,1.4665] | rad+lat+means 60% | rad+lat+k4S 60% b=[-0.0074, 1.4315, 0.9721] | rad bins+lat 59% | rad bins+lat bins 60% | rad+lat+transposes 59% | all 61%
+net 2 l=10 | fixed two-term 49% | V29 form cS 38% b=[0.0097] | rad 38% b=[0.0316] | rad+lat 50% b=[0.0267,1.3499] | rad+lat+means 51% | rad+lat+k4S 51% b=[-0.0063, 1.2853, 0.7805] | rad bins+lat 50% | rad bins+lat bins 51% | rad+lat+transposes 50% | all 54%
+net 2 l=14 | fixed two-term 40% | V29 form cS 33% b=[0.0075] | rad 33% b=[0.0361] | rad+lat 41% b=[0.0294,1.1841] | rad+lat+means 44% | rad+lat+k4S 47% b=[-0.0328, 1.1276, 1.1842] | rad bins+lat 42% | rad bins+lat bins 43% | rad+lat+transposes 42% | all 50%

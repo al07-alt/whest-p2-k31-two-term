@@ -1,0 +1,3 @@
+net 0 l=5 | slot=0.0 K^T: offdiag rel err 2.368e-03 | next-var rel err 2.193e-04 | slot=1.0 K^T: offdiag rel err 4.611e-04 | next-var rel err 4.096e-05 | slot=K (transposed): offdiag rel err 1.786e-03 | next-var rel err 1.645e-04
+net 0 l=10 | slot=0.0 K^T: offdiag rel err 2.911e-03 | next-var rel err 3.933e-04 | slot=1.0 K^T: offdiag rel err 6.141e-04 | next-var rel err 8.459e-05 | slot=K (transposed): offdiag rel err 2.508e-03 | next-var rel err 3.552e-04
+net 0 l=14 | slot=0.0 K^T: offdiag rel err 2.694e-03 | next-var rel err 5.050e-04 | slot=1.0 K^T: offdiag rel err 6.727e-04 | next-var rel err 1.185e-04 | slot=K (transposed): offdiag rel err 2.661e-03 | next-var rel err 5.246e-04

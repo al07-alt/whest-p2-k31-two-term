@@ -1,0 +1,10 @@
+(i) seed spread, nets 0-2: slope and R2 per seed (5/6/7)
+l=4  net 0 slope 0.979±0.005 R2 0.825±0.000 | net 1 slope 0.973±0.017 R2 0.780±0.001 | net 2 slope 0.969±0.005 R2 0.817±0.000
+l=8  net 0 slope 0.959±0.007 R2 0.861±0.001 | net 1 slope 0.974±0.018 R2 0.857±0.001 | net 2 slope 0.962±0.008 R2 0.860±0.000
+l=12  net 0 slope 0.940±0.002 R2 0.890±0.000 | net 1 slope 0.945±0.012 R2 0.867±0.001 | net 2 slope 0.926±0.009 R2 0.872±0.001
+l=14  net 0 slope 0.934±0.005 R2 0.882±0.001 | net 1 slope 0.925±0.015 R2 0.870±0.003 | net 2 slope 0.935±0.009 R2 0.879±0.001
+(ii) network spread, nets 0-9 (seed 5) and (iii) leave-one-network-out gamma = c_l alpha
+l= 4 identity: slope 0.968 [0.935-0.989] R2 0.806 [0.779-0.843] | LOO c*alpha R2 0.813 [0.786-0.856] | identity minus LOO R2: mean -0.007, identity better on 0/10 | corr(identity) - corr(alpha): -0.0035
+l= 8 identity: slope 0.965 [0.954-0.986] R2 0.859 [0.838-0.874] | LOO c*alpha R2 0.873 [0.854-0.888] | identity minus LOO R2: mean -0.014, identity better on 0/10 | corr(identity) - corr(alpha): -0.0071
+l=12 identity: slope 0.945 [0.922-0.965] R2 0.875 [0.858-0.890] | LOO c*alpha R2 0.895 [0.878-0.906] | identity minus LOO R2: mean -0.019, identity better on 0/10 | corr(identity) - corr(alpha): -0.0093
+l=14 identity: slope 0.937 [0.907-0.957] R2 0.874 [0.851-0.888] | LOO c*alpha R2 0.893 [0.871-0.906] | identity minus LOO R2: mean -0.020, identity better on 0/10 | corr(identity) - corr(alpha): -0.0090

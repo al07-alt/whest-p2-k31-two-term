@@ -1,0 +1,3 @@
+net 3: l=5 V29 0.0106 local-opt 0.0141 ratio 0.75 | l=10 V29 0.0084 local-opt 0.0088 ratio 0.95 | l=14 V29 0.0072 local-opt 0.0065 ratio 1.10
+net 4: l=5 V29 0.0101 local-opt 0.0122 ratio 0.82 | l=10 V29 0.0090 local-opt 0.0089 ratio 1.02 | l=14 V29 0.0069 local-opt 0.0066 ratio 1.04
+net 5: l=5 V29 0.0103 local-opt 0.0127 ratio 0.81 | l=10 V29 0.0090 local-opt 0.0092 ratio 0.98 | l=14 V29 0.0070 local-opt 0.0059 ratio 1.19

@@ -1,0 +1,5 @@
+== tree1
+1 final 2.061e-08 all 8.493e-09 flops 7.679e+11 (34.92%) resid 671ms wall 69.7s
+2 final 2.541e-08 all 9.667e-09 flops 7.391e+11 (33.61%) resid 593ms wall 87.7s
+3 final 2.510e-08 all 8.868e-09 flops 7.360e+11 (33.47%) resid 573ms wall 87.7s
+== tree1 wk0.7

@@ -1,0 +1,12 @@
+== wk1.5
+1 final 2.304e-08 all 9.055e-09 flops 5.873e+11 (26.71%) resid 574ms wall 68.9s
+2 final 2.939e-08 all 1.049e-08 flops 5.585e+11 (25.40%) resid 557ms wall 85.8s
+3 final 2.652e-08 all 9.356e-09 flops 5.554e+11 (25.26%) resid 570ms wall 88.1s
+== wk2
+1 final 2.800e-08 all 1.041e-08 flops 5.873e+11 (26.71%) resid 543ms wall 66.0s
+2 final 3.549e-08 all 1.197e-08 flops 5.585e+11 (25.40%) resid 522ms wall 83.9s
+3 final 3.089e-08 all 1.062e-08 flops 5.554e+11 (25.26%) resid 536ms wall 85.7s
+== wk0.5
+1 final 2.147e-08 all 8.861e-09 flops 5.873e+11 (26.71%) resid 560ms wall 67.4s
+2 final 2.571e-08 all 9.961e-09 flops 5.585e+11 (25.40%) resid 525ms wall 84.2s
+3 final 2.622e-08 all 9.174e-09 flops 5.554e+11 (25.26%) resid 554ms wall 86.4s

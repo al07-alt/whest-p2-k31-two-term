@@ -1,0 +1,8 @@
+/home/claude/research/fsrun.py:9: ConfigureNoOpWarning: flops.configure() configures the in-process flopscope backend only; it is a no-op on flopscope-client and the evaluation servers, so these settings will not affect a graded submission.
+  E=mod.Estimator(); flops.configure(symmetry_warnings=False)
+flopscope 0.12.1+np2.2.6 (numpy 2.2.6 backend) | budget: 2.20e+12 FLOPs
+/home/claude/submission_v4a/estimator.py:1166: FlopscopeWarning: stats.norm.pdf promoted its float32 input to float64 to match scipy.stats. If float64 output was not intended, cast the result back with result.astype(np.float32) before downstream operations; float64 operations are billed at twice the float32 dtype rate.
+  phi = flops.stats.norm.pdf(alpha).astype(f32)
+/home/claude/submission_v4a/estimator.py:1167: FlopscopeWarning: stats.norm.cdf promoted its float32 input to float64 to match scipy.stats. If float64 output was not intended, cast the result back with result.astype(np.float32) before downstream operations; float64 operations are billed at twice the float32 dtype rate.
+  Phi = flops.stats.norm.cdf(alpha).astype(f32)
+3 final 2.500e-08 all 8.877e-09 flops 5.873e+11 (26.71%) resid 672ms wall 80.1s
