@@ -1,0 +1,46 @@
+/home/claude/research/fsrun.py:9: ConfigureNoOpWarning: flops.configure() configures the in-process flopscope backend only; it is a no-op on flopscope-client and the evaluation servers, so these settings will not affect a graded submission.
+  E=mod.Estimator(); flops.configure(symmetry_warnings=False)
+flopscope 0.12.1+np2.2.6 (numpy 2.2.6 backend) | budget: 2.20e+12 FLOPs
+/home/claude/submission_v4k/estimator.py:1368: FlopscopeWarning: stats.norm.pdf promoted its float32 input to float64 to match scipy.stats. If float64 output was not intended, cast the result back with result.astype(np.float32) before downstream operations; float64 operations are billed at twice the float32 dtype rate.
+  phi = flops.stats.norm.pdf(alpha).astype(f32)
+/home/claude/submission_v4k/estimator.py:1369: FlopscopeWarning: stats.norm.cdf promoted its float32 input to float64 to match scipy.stats. If float64 output was not intended, cast the result back with result.astype(np.float32) before downstream operations; float64 operations are billed at twice the float32 dtype rate.
+  Phi = flops.stats.norm.cdf(alpha).astype(f32)
+3 final 2.500e-08 all 8.877e-09 flops 5.873e+11 (26.71%) resid 518ms wall 57.2s
+flopscope 0.12.1+np2.2.6 (numpy 2.2.6 backend) | budget: 2.20e+12 FLOPs
+4 final 2.215e-08 all 8.778e-09 flops 5.585e+11 (25.40%) resid 583ms wall 81.2s
+flopscope 0.12.1+np2.2.6 (numpy 2.2.6 backend) | budget: 2.20e+12 FLOPs
+5 final 1.961e-08 all 7.664e-09 flops 5.554e+11 (25.26%) resid 505ms wall 71.6s
+flopscope 0.12.1+np2.2.6 (numpy 2.2.6 backend) | budget: 2.20e+12 FLOPs
+6 final 2.080e-08 all 8.675e-09 flops 5.554e+11 (25.26%) resid 506ms wall 71.3s
+flopscope 0.12.1+np2.2.6 (numpy 2.2.6 backend) | budget: 2.20e+12 FLOPs
+7 final 2.430e-08 all 8.790e-09 flops 5.554e+11 (25.26%) resid 493ms wall 70.5s
+flopscope 0.12.1+np2.2.6 (numpy 2.2.6 backend) | budget: 2.20e+12 FLOPs
+8 final 2.334e-08 all 9.011e-09 flops 5.554e+11 (25.26%) resid 519ms wall 71.3s
+flopscope 0.12.1+np2.2.6 (numpy 2.2.6 backend) | budget: 2.20e+12 FLOPs
+9 final 2.526e-08 all 9.868e-09 flops 5.554e+11 (25.26%) resid 501ms wall 70.1s
+flopscope 0.12.1+np2.2.6 (numpy 2.2.6 backend) | budget: 2.20e+12 FLOPs
+10 final 2.281e-08 all 8.242e-09 flops 5.554e+11 (25.26%) resid 508ms wall 71.0s
+flopscope 0.12.1+np2.2.6 (numpy 2.2.6 backend) | budget: 2.20e+12 FLOPs
+11 final 2.293e-08 all 8.895e-09 flops 5.554e+11 (25.26%) resid 563ms wall 76.5s
+flopscope 0.12.1+np2.2.6 (numpy 2.2.6 backend) | budget: 2.20e+12 FLOPs
+12 final 2.101e-08 all 8.207e-09 flops 5.554e+11 (25.26%) resid 540ms wall 76.3s
+flopscope 0.12.1+np2.2.6 (numpy 2.2.6 backend) | budget: 2.20e+12 FLOPs
+13 final 2.157e-08 all 9.316e-09 flops 5.554e+11 (25.26%) resid 570ms wall 80.7s
+flopscope 0.12.1+np2.2.6 (numpy 2.2.6 backend) | budget: 2.20e+12 FLOPs
+14 final 2.419e-08 all 8.560e-09 flops 5.554e+11 (25.26%) resid 623ms wall 85.4s
+flopscope 0.12.1+np2.2.6 (numpy 2.2.6 backend) | budget: 2.20e+12 FLOPs
+15 final 2.419e-08 all 8.914e-09 flops 5.554e+11 (25.26%) resid 555ms wall 77.8s
+flopscope 0.12.1+np2.2.6 (numpy 2.2.6 backend) | budget: 2.20e+12 FLOPs
+16 final 1.749e-08 all 7.528e-09 flops 5.554e+11 (25.26%) resid 558ms wall 78.5s
+flopscope 0.12.1+np2.2.6 (numpy 2.2.6 backend) | budget: 2.20e+12 FLOPs
+17 final 1.969e-08 all 8.781e-09 flops 5.554e+11 (25.26%) resid 649ms wall 87.9s
+flopscope 0.12.1+np2.2.6 (numpy 2.2.6 backend) | budget: 2.20e+12 FLOPs
+18 final 2.294e-08 all 9.747e-09 flops 5.554e+11 (25.26%) resid 630ms wall 86.4s
+flopscope 0.12.1+np2.2.6 (numpy 2.2.6 backend) | budget: 2.20e+12 FLOPs
+19 final 1.896e-08 all 8.007e-09 flops 5.554e+11 (25.26%) resid 594ms wall 84.3s
+flopscope 0.12.1+np2.2.6 (numpy 2.2.6 backend) | budget: 2.20e+12 FLOPs
+20 final 2.367e-08 all 9.131e-09 flops 5.554e+11 (25.26%) resid 568ms wall 79.6s
+flopscope 0.12.1+np2.2.6 (numpy 2.2.6 backend) | budget: 2.20e+12 FLOPs
+21 final 2.543e-08 all 9.370e-09 flops 5.554e+11 (25.26%) resid 541ms wall 78.6s
+flopscope 0.12.1+np2.2.6 (numpy 2.2.6 backend) | budget: 2.20e+12 FLOPs
+22 final 2.276e-08 all 9.067e-09 flops 5.554e+11 (25.26%) resid 552ms wall 78.8s

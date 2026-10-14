@@ -1,0 +1,10 @@
+== kink3
+1 final 2.750e-08 all 1.007e-08 flops 5.873e+11 (26.71%) resid 603ms wall 71.3s
+2 final 3.143e-08 all 1.110e-08 flops 5.585e+11 (25.40%) resid 607ms wall 92.5s
+3 final 3.086e-08 all 9.981e-09 flops 5.554e+11 (25.26%) resid 590ms wall 89.9s
+== dead2
+1 final 2.252e-08 all 8.883e-09 flops 5.873e+11 (26.71%) resid 595ms wall 70.2s
+2 final 2.688e-08 all 9.883e-09 flops 5.585e+11 (25.40%) resid 626ms wall 91.1s
+3 final 2.711e-08 all 9.456e-09 flops 5.554e+11 (25.26%) resid 648ms wall 91.9s
+== kink2.5
+1 final 3.356e-08 all 1.196e-08 flops 5.873e+11 (26.71%) resid 600ms wall 69.6s

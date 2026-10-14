@@ -1,0 +1,6 @@
+eta1cov 0 final 2.526e-08 all 9.355e-09 flops 5.873e+11 (26.71%) resid 439ms wall 75.0s
+eta1cov 1 final 2.116e-08 all 8.608e-09 flops 5.873e+11 (26.71%) resid 436ms wall 66.6s
+eta1cov 2 final 2.669e-08 all 9.974e-09 flops 5.873e+11 (26.71%) resid 452ms wall 68.3s
+eta1all 0 final 2.341e-08 all 9.077e-09 flops 5.873e+11 (26.71%) resid 446ms wall 69.0s
+eta1all 1 final 2.076e-08 all 8.560e-09 flops 5.873e+11 (26.71%) resid 438ms wall 68.2s
+eta1all 2 final 2.553e-08 all 9.765e-09 flops 5.873e+11 (26.71%) resid 446ms wall 68.6s

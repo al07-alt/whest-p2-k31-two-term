@@ -1,0 +1,7 @@
+two1         n=20 mean -3.07% CI [-4.10, -2.05] median -2.53 improved 19/20
+abl_v29k3t   n=20 mean -2.25% CI [-3.00, -1.49] median -2.36 improved 19/20
+abl_b1only   n=20 mean -0.55% CI [-1.18, +0.08] median -0.24 improved 12/20
+abl_k3075    n=20 mean -1.78% CI [-2.59, -0.97] median -1.63 improved 17/20
+  abl_v29k3t vs two1: +0.87% CI [+0.22, +1.52]
+  abl_b1only vs two1: +2.63% CI [+1.81, +3.46]
+  abl_k3075 vs two1: +1.36% CI [+0.56, +2.16]

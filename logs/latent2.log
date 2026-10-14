@@ -1,0 +1,15 @@
+130s
+net 0 L4 S1: skew corr 0.907 (rel 1.00, disattn 0.908) exkurt corr 0.212 (rel 0.65) || S2: skew corr 0.906 (rel 1.00, disattn 0.907) exkurt corr 0.196 (rel 0.57) || M1: skew corr 0.916 (rel 1.00, disattn 0.916) exkurt corr 0.269 (rel 0.61)
+net 0 L8 S1: skew corr 0.926 (rel 1.00, disattn 0.927) exkurt corr 0.170 (rel 0.86) || S2: skew corr 0.924 (rel 1.00, disattn 0.924) exkurt corr 0.194 (rel 0.85) || M1: skew corr 0.930 (rel 1.00, disattn 0.930) exkurt corr 0.153 (rel 0.80)
+net 0 L12 S1: skew corr 0.942 (rel 1.00, disattn 0.942) exkurt corr 0.388 (rel 0.95) || S2: skew corr 0.942 (rel 1.00, disattn 0.942) exkurt corr 0.372 (rel 0.94) || M1: skew corr 0.951 (rel 1.00, disattn 0.951) exkurt corr 0.327 (rel 0.90)
+net 0 L15 S1: skew corr 0.946 (rel 1.00, disattn 0.947) exkurt corr 0.439 (rel 0.96) || S2: skew corr 0.944 (rel 1.00, disattn 0.945) exkurt corr 0.423 (rel 0.96) || M1: skew corr 0.953 (rel 1.00, disattn 0.953) exkurt corr 0.371 (rel 0.92)
+125s
+net 1 L4 S1: skew corr 0.882 (rel 1.00, disattn 0.883) exkurt corr 0.237 (rel 0.63) || S2: skew corr 0.873 (rel 1.00, disattn 0.874) exkurt corr 0.240 (rel 0.55) || M1: skew corr 0.902 (rel 1.00, disattn 0.903) exkurt corr 0.321 (rel 0.61)
+net 1 L8 S1: skew corr 0.921 (rel 1.00, disattn 0.921) exkurt corr 0.160 (rel 0.85) || S2: skew corr 0.921 (rel 1.00, disattn 0.922) exkurt corr 0.182 (rel 0.83) || M1: skew corr 0.928 (rel 1.00, disattn 0.928) exkurt corr 0.129 (rel 0.79)
+net 1 L12 S1: skew corr 0.933 (rel 1.00, disattn 0.933) exkurt corr 0.240 (rel 0.92) || S2: skew corr 0.930 (rel 1.00, disattn 0.931) exkurt corr 0.231 (rel 0.92) || M1: skew corr 0.938 (rel 1.00, disattn 0.938) exkurt corr 0.158 (rel 0.86)
+net 1 L15 S1: skew corr 0.937 (rel 1.00, disattn 0.937) exkurt corr 0.311 (rel 0.96) || S2: skew corr 0.939 (rel 1.00, disattn 0.939) exkurt corr 0.312 (rel 0.95) || M1: skew corr 0.944 (rel 1.00, disattn 0.944) exkurt corr 0.244 (rel 0.91)
+125s
+net 2 L4 S1: skew corr 0.899 (rel 1.00, disattn 0.899) exkurt corr 0.142 (rel 0.66) || S2: skew corr 0.893 (rel 1.00, disattn 0.893) exkurt corr 0.113 (rel 0.57) || M1: skew corr 0.909 (rel 1.00, disattn 0.910) exkurt corr 0.239 (rel 0.64)
+net 2 L8 S1: skew corr 0.924 (rel 1.00, disattn 0.925) exkurt corr 0.231 (rel 0.83) || S2: skew corr 0.923 (rel 1.00, disattn 0.924) exkurt corr 0.223 (rel 0.81) || M1: skew corr 0.930 (rel 1.00, disattn 0.930) exkurt corr 0.199 (rel 0.76)
+net 2 L12 S1: skew corr 0.939 (rel 1.00, disattn 0.940) exkurt corr 0.280 (rel 0.92) || S2: skew corr 0.939 (rel 1.00, disattn 0.940) exkurt corr 0.271 (rel 0.91) || M1: skew corr 0.946 (rel 1.00, disattn 0.946) exkurt corr 0.202 (rel 0.85)
+net 2 L15 S1: skew corr 0.935 (rel 1.00, disattn 0.936) exkurt corr 0.281 (rel 0.93) || S2: skew corr 0.936 (rel 1.00, disattn 0.937) exkurt corr 0.287 (rel 0.92) || M1: skew corr 0.941 (rel 1.00, disattn 0.941) exkurt corr 0.176 (rel 0.85)

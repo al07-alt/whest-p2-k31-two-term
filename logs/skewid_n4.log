@@ -1,0 +1,17 @@
+pass 37s
+layer | k3 identity: corr R2 slope | alpha-baseline corr | k4 identity: corr slope (eta) | lam_pred vs true
+z1  k3: corr 0.704 R2 0.495 slope 0.976 | alpha corr 0.704 | k4: corr -0.111 slope 1.006 R2 -0.531 | mean eta 0.0096 pred 0.0095 | v corr 0.809
+z2  k3: corr 0.825 R2 0.680 slope 0.987 | alpha corr 0.827 | k4: corr 0.195 slope 0.984 R2 -0.624 | mean eta 0.0160 pred 0.0162 | v corr 0.655
+z3  k3: corr 0.876 R2 0.766 slope 0.999 | alpha corr 0.878 | k4: corr 0.229 slope 0.974 R2 -0.986 | mean eta 0.0218 pred 0.0221 | v corr 0.550
+z4  k3: corr 0.900 R2 0.806 slope 0.940 | alpha corr 0.905 | k4: corr 0.258 slope 0.954 R2 -1.233 | mean eta 0.0266 pred 0.0273 | v corr 0.505
+z5  k3: corr 0.915 R2 0.836 slope 0.953 | alpha corr 0.922 | k4: corr 0.311 slope 0.963 R2 -1.058 | mean eta 0.0302 pred 0.0306 | v corr 0.507
+z6  k3: corr 0.921 R2 0.847 slope 0.969 | alpha corr 0.927 | k4: corr 0.361 slope 0.966 R2 -0.797 | mean eta 0.0337 pred 0.0340 | v corr 0.473
+z7  k3: corr 0.925 R2 0.855 slope 0.975 | alpha corr 0.931 | k4: corr 0.393 slope 0.966 R2 -0.678 | mean eta 0.0373 pred 0.0375 | v corr 0.471
+z8  k3: corr 0.923 R2 0.850 slope 0.955 | alpha corr 0.930 | k4: corr 0.390 slope 0.944 R2 -0.792 | mean eta 0.0412 pred 0.0422 | v corr 0.476
+z9  k3: corr 0.931 R2 0.865 slope 0.962 | alpha corr 0.937 | k4: corr 0.377 slope 0.917 R2 -0.804 | mean eta 0.0444 pred 0.0467 | v corr 0.505
+z10 k3: corr 0.920 R2 0.844 slope 0.943 | alpha corr 0.930 | k4: corr 0.347 slope 0.919 R2 -0.898 | mean eta 0.0474 pred 0.0496 | v corr 0.515
+z11 k3: corr 0.930 R2 0.857 slope 0.914 | alpha corr 0.940 | k4: corr 0.397 slope 0.892 R2 -0.960 | mean eta 0.0507 pred 0.0543 | v corr 0.520
+z12 k3: corr 0.928 R2 0.858 slope 0.943 | alpha corr 0.937 | k4: corr 0.364 slope 0.922 R2 -0.669 | mean eta 0.0544 pred 0.0563 | v corr 0.520
+z13 k3: corr 0.926 R2 0.853 slope 0.938 | alpha corr 0.936 | k4: corr 0.388 slope 0.909 R2 -0.631 | mean eta 0.0562 pred 0.0589 | v corr 0.519
+z14 k3: corr 0.924 R2 0.851 slope 0.949 | alpha corr 0.934 | k4: corr 0.379 slope 0.917 R2 -0.482 | mean eta 0.0596 pred 0.0620 | v corr 0.579
+z15 k3: corr 0.930 R2 0.863 slope 0.953 | alpha corr 0.939 | k4: corr 0.410 slope 0.910 R2 -0.476 | mean eta 0.0629 pred 0.0660 | v corr 0.532

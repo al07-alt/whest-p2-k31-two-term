@@ -1,0 +1,5 @@
+0 base       final 2.4787e-08  L8 7.35e-09 L12 1.66e-08  62s
+0 rad        final 3.8064e-08  L8 1.03e-08 L12 2.20e-08  60s
+0 edge+rad   final 2.4680e-08  L8 7.25e-09 L12 1.46e-08  60s
+0 true       final 3.0136e-08  L8 8.59e-09 L12 1.85e-08  78s
+0 edge+true  final 1.9842e-08  L8 6.10e-09 L12 1.23e-08  61s

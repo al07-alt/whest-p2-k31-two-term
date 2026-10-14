@@ -1,0 +1,6 @@
+net 0 l 8 corr latent 0.926 alpha 0.937 partial(latent|alpha) 0.214
+net 0 l 15 corr latent 0.945 alpha 0.956 partial(latent|alpha) 0.237
+net 1 l 8 corr latent 0.922 alpha 0.935 partial(latent|alpha) 0.144
+net 1 l 15 corr latent 0.935 alpha 0.950 partial(latent|alpha) 0.117
+net 2 l 8 corr latent 0.925 alpha 0.935 partial(latent|alpha) 0.173
+net 2 l 15 corr latent 0.934 alpha 0.947 partial(latent|alpha) 0.077

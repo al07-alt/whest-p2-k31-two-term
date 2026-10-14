@@ -1,0 +1,6 @@
+trad 0 final 2.591e-08 all 9.569e-09 flops 5.873e+11 (26.71%) resid 1983ms wall 86.7s
+trad 1 final 2.146e-08 all 8.722e-09 flops 5.873e+11 (26.71%) resid 1680ms wall 81.0s
+trad 2 final 2.712e-08 all 1.012e-08 flops 5.873e+11 (26.71%) resid 1590ms wall 74.6s
+nonrad 0 final 2.010e-08 all 7.973e-09 flops 5.873e+11 (26.71%) resid 1572ms wall 75.5s
+nonrad 1 final 1.963e-08 all 7.830e-09 flops 5.873e+11 (26.71%) resid 1484ms wall 96.2s
+nonrad 2 final 2.246e-08 all 8.776e-09 flops 5.873e+11 (26.71%) resid 1669ms wall 74.7s

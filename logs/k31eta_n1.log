@@ -1,0 +1,16 @@
+l=5 corr(rowslope,eta) 0.928 fit rowslope = -0.0094 + 1.145 eta | theory (lam_perp+eta)/2: lam_perp 0.0300, weighted R2 of theory -0.438, of const 0.000
+    glob  entry R2 0.481  slope 1.000
+    eta   entry R2 0.478  slope 0.835
+    half  entry R2 0.472  slope 0.835
+l=8 corr(rowslope,eta) 0.908 fit rowslope = -0.0170 + 1.251 eta | theory (lam_perp+eta)/2: lam_perp 0.0416, weighted R2 of theory 0.177, of const 0.000
+    glob  entry R2 0.488  slope 1.000
+    eta   entry R2 0.503  slope 0.861
+    half  entry R2 0.494  slope 0.871
+l=11 corr(rowslope,eta) 0.903 fit rowslope = -0.0223 + 1.334 eta | theory (lam_perp+eta)/2: lam_perp 0.0481, weighted R2 of theory 0.492, of const 0.000
+    glob  entry R2 0.492  slope 1.000
+    eta   entry R2 0.544  slope 0.932
+    half  entry R2 0.528  slope 0.976
+l=14 corr(rowslope,eta) 0.887 fit rowslope = -0.0183 + 1.276 eta | theory (lam_perp+eta)/2: lam_perp 0.0565, weighted R2 of theory 0.501, of const 0.000
+    glob  entry R2 0.563  slope 1.000
+    eta   entry R2 0.622  slope 1.001
+    half  entry R2 0.601  slope 1.059

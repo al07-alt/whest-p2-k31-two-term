@@ -1,0 +1,2 @@
+nets 0-2 (b1 fitted here): fixed two-term 40-58 %; V29 form cS 33-55 %; rad+lat 41-59 %; all 50-61 %; fixed law below its in-sample optimum by 1-4 points; locally preferred b2 1.06-1.49
+nets 3-5 (out of sample): fixed two-term 39-59 %; V29 form cS 28-56 %; rad+lat 40-59 %; all 49-62 %; fixed law below its in-sample optimum by 0-2 points; locally preferred b2 1.12-1.46

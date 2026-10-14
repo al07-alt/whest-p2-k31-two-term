@@ -1,0 +1,8 @@
+== g4rad1.0
+1 final 2.117e-08 all 8.561e-09 flops 5.873e+11 (26.71%) resid 593ms wall 70.1s
+2 final 2.685e-08 all 9.865e-09 flops 5.585e+11 (25.40%) resid 574ms wall 88.5s
+3 final 2.574e-08 all 8.926e-09 flops 5.554e+11 (25.26%) resid 583ms wall 90.8s
+== g4rad1.1
+1 final 2.198e-08 all 8.612e-09 flops 5.873e+11 (26.71%) resid 577ms wall 68.5s
+2 final 2.803e-08 all 9.940e-09 flops 5.585e+11 (25.40%) resid 564ms wall 88.8s
+3 final 2.686e-08 all 8.996e-09 flops 5.554e+11 (25.26%) resid 536ms wall 87.4s

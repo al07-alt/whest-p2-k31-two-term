@@ -1,0 +1,8 @@
+net 0  MSE(T,D) 7.05e-10  MSE(T,B) 7.66e-10  MSE(D,B) 1.44e-09  ->  truth 1.53e-11  dumps 6.90e-10  bake 7.51e-10
+net 1  MSE(T,D) 1.04e-09  MSE(T,B) 7.55e-10  MSE(D,B) 1.61e-09  ->  truth 9.37e-11  dumps 9.51e-10  bake 6.62e-10
+net 2  MSE(T,D) 1.21e-09  MSE(T,B) 9.75e-10  MSE(D,B) 2.06e-09  ->  truth 5.84e-11  dumps 1.15e-09  bake 9.16e-10
+net 3  MSE(T,D) 8.52e-10  MSE(T,B) 1.14e-09  MSE(D,B) 2.00e-09  ->  truth -2.13e-12  dumps 8.54e-10  bake 1.15e-09
+net 4  MSE(T,D) 7.07e-10  MSE(T,B) 6.14e-10  MSE(D,B) 1.16e-09  ->  truth 7.95e-11  dumps 6.27e-10  bake 5.35e-10
+net 5  MSE(T,D) 1.06e-09  MSE(T,B) 6.60e-10  MSE(D,B) 1.32e-09  ->  truth 1.97e-10  dumps 8.60e-10  bake 4.62e-10
+mean   MSE(T,D) 9.29e-10  MSE(T,B) 8.19e-10  MSE(D,B) 1.60e-09  ->  truth 7.37e-11  dumps 8.55e-10  bake 7.45e-10
+organisers' truth noise as a fraction of V29 raw MSE (2.1e-8): 0.35 %

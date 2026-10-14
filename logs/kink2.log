@@ -1,0 +1,8 @@
+== kink3 nofeedmask
+1 final 2.118e-08 all 8.590e-09 flops 5.873e+11 (26.71%) resid 595ms wall 70.7s
+2 final 2.792e-08 all 1.014e-08 flops 5.585e+11 (25.40%) resid 614ms wall 93.5s
+3 final 2.570e-08 all 9.122e-09 flops 5.554e+11 (25.26%) resid 638ms wall 95.7s
+== kink2.5 nofeedmask
+1 final 2.147e-08 all 8.742e-09 flops 5.873e+11 (26.71%) resid 638ms wall 73.8s
+2 final 2.786e-08 all 1.019e-08 flops 5.585e+11 (25.40%) resid 600ms wall 91.4s
+3 final 2.676e-08 all 9.306e-09 flops 5.554e+11 (25.26%) resid 641ms wall 90.3s

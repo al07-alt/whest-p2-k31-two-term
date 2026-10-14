@@ -1,0 +1,20 @@
+2 same-sample vs independent next-var truth: rel diff 1.95e-04
+   base         err vs same-sample 1.030e-04 | vs independent 2.168e-04
+   edge+k31x    err vs same-sample 4.350e-05 | vs independent 1.964e-04
+   edge+k31rad  err vs same-sample 7.993e-05 | vs independent 2.058e-04
+5 same-sample vs independent next-var truth: rel diff 2.06e-04
+   base         err vs same-sample 2.044e-04 | vs independent 2.798e-04
+   edge+k31x    err vs same-sample 8.005e-05 | vs independent 2.174e-04
+   edge+k31rad  err vs same-sample 1.666e-04 | vs independent 2.524e-04
+8 same-sample vs independent next-var truth: rel diff 1.99e-04
+   base         err vs same-sample 3.045e-04 | vs independent 3.671e-04
+   edge+k31x    err vs same-sample 1.085e-04 | vs independent 2.270e-04
+   edge+k31rad  err vs same-sample 2.426e-04 | vs independent 3.132e-04
+11 same-sample vs independent next-var truth: rel diff 1.96e-04
+   base         err vs same-sample 3.950e-04 | vs independent 4.388e-04
+   edge+k31x    err vs same-sample 1.327e-04 | vs independent 2.384e-04
+   edge+k31rad  err vs same-sample 3.327e-04 | vs independent 3.877e-04
+14 same-sample vs independent next-var truth: rel diff 2.00e-04
+   base         err vs same-sample 5.132e-04 | vs independent 5.426e-04
+   edge+k31x    err vs same-sample 1.696e-04 | vs independent 2.682e-04
+   edge+k31rad  err vs same-sample 4.380e-04 | vs independent 4.749e-04

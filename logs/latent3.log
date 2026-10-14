@@ -1,0 +1,5 @@
+178s
+net 0 L4 S1: skew corr 0.907 (rel 1.00, disattn 0.908) exkurt corr 0.212 (rel 0.65) || R1: skew corr 0.207 (rel 0.84, disattn 0.227) exkurt corr 0.044 (rel 0.69)
+net 0 L8 S1: skew corr 0.926 (rel 1.00, disattn 0.927) exkurt corr 0.170 (rel 0.86) || R1: skew corr 0.359 (rel 0.97, disattn 0.365) exkurt corr 0.081 (rel 0.90)
+net 0 L12 S1: skew corr 0.942 (rel 1.00, disattn 0.942) exkurt corr 0.388 (rel 0.95) || R1: skew corr 0.418 (rel 0.98, disattn 0.421) exkurt corr -0.009 (rel 0.94)
+net 0 L15 S1: skew corr 0.946 (rel 1.00, disattn 0.947) exkurt corr 0.439 (rel 0.96) || R1: skew corr 0.482 (rel 0.99, disattn 0.484) exkurt corr 0.028 (rel 0.96)

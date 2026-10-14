@@ -1,0 +1,6 @@
+chcov 0 final 2.015e-08 all 7.980e-09 flops 5.873e+11 (26.71%) resid 1204ms wall 72.8s
+chcov 1 final 1.969e-08 all 7.840e-09 flops 5.873e+11 (26.71%) resid 1046ms wall 69.7s
+chcov 2 final 2.247e-08 all 8.785e-09 flops 5.873e+11 (26.71%) resid 995ms wall 67.0s
+chk3 0 final 2.408e-08 all 9.098e-09 flops 5.873e+11 (26.71%) resid 1242ms wall 68.7s
+chk3 1 final 2.143e-08 all 8.650e-09 flops 5.873e+11 (26.71%) resid 1137ms wall 68.6s
+chk3 2 final 2.796e-08 all 1.010e-08 flops 5.873e+11 (26.71%) resid 1291ms wall 72.0s

@@ -1,0 +1,5 @@
+== k4k3 1.5 last
+1 final 2.097e-08 all 8.549e-09 flops 5.873e+11 (26.71%) resid 670ms wall 102.6s
+2 final 2.597e-08 all 9.811e-09 flops 5.585e+11 (25.40%) resid 624ms wall 117.0s
+3 final 2.511e-08 all 8.887e-09 flops 5.554e+11 (25.26%) resid 605ms wall 106.5s
+== k4k3 3 last

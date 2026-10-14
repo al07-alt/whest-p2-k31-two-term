@@ -1,0 +1,13 @@
+radv 0 final 2.703e-08 all 1.020e-08 flops 5.873e+11 (26.71%) resid 1223ms wall 77.7s
+radv 1 final 2.330e-08 all 9.395e-09 flops 5.873e+11 (26.71%) resid 1280ms wall 68.8s
+radv 2 final 2.684e-08 all 1.035e-08 flops 5.873e+11 (26.71%) resid 1497ms wall 72.3s
+fit1 0 FAILED: [EF] li 4 fit b [0.02321972]
+[EF] li 5 fit b [0.02653103]
+[EF] li 6 fit b [0.02965153]
+fit1 1 final 2.091e-08 all 8.645e-09 flops 5.873e+11 (26.71%) resid 1752ms wall 83.1s
+fit1 2 final 2.568e-08 all 9.824e-09 flops 5.873e+11 (26.71%) resid 1300ms wall 70.4s
+fit4 0 final 2.370e-08 all 9.234e-09 flops 5.873e+11 (26.71%) resid 2991ms wall 69.5s
+fit4 1 final 2.130e-08 all 8.729e-09 flops 5.873e+11 (26.71%) resid 3758ms wall 74.9s
+fit4 2 final 2.544e-08 all 9.800e-09 flops 5.873e+11 (26.71%) resid 3009ms wall 69.1s
+wk0 1 final 2.477e-08 all 1.001e-08 flops 5.873e+11 (26.71%) resid 438ms wall 63.6s
+wk0 2 final 2.818e-08 all 1.092e-08 flops 5.873e+11 (26.71%) resid 432ms wall 66.2s

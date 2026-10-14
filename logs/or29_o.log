@@ -1,0 +1,5 @@
+k3t43 0 final 2.184e-08 all 8.736e-09 flops 5.873e+11 (26.71%) resid 459ms wall 77.7s
+k3t43 1 final 2.126e-08 all 8.550e-09 flops 5.873e+11 (26.71%) resid 435ms wall 66.7s
+k3t43 2 final 2.611e-08 all 9.703e-09 flops 5.873e+11 (26.71%) resid 426ms wall 64.2s
+k3t43cov 0 final 3.625e-08 all 1.164e-08 flops 5.873e+11 (26.71%) resid 441ms wall 66.0s
+k3t43cov 1 final 4.359e-08 all 1.259e-08 flops 5.873e+11 (26.71%) resid 443ms wall 72.7s

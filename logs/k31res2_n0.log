@@ -1,0 +1,4 @@
+l=8 s1^2 share 0.16 | right sv1 . mhat 0.93 . 1 0.00 | left sv1 . mhat 0.78 . 1 0.00 | right sv1 energy in top-16 eig of S 0.86 | sv2: right.mhat 0.04 left.mhat 0.07
+     |R Pm|^2/|R|^2 0.14  |Pm R|^2/|R|^2 0.10  | R energy in top-16 eig of S (right) 0.42 (left) 0.17
+l=14 s1^2 share 0.25 | right sv1 . mhat 0.93 . 1 0.00 | left sv1 . mhat 0.74 . 1 0.01 | right sv1 energy in top-16 eig of S 0.90 | sv2: right.mhat 0.08 left.mhat 0.11
+     |R Pm|^2/|R|^2 0.22  |Pm R|^2/|R|^2 0.14  | R energy in top-16 eig of S (right) 0.60 (left) 0.30

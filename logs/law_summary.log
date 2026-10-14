@@ -1,0 +1,12 @@
+b2, layers 4-14, all 23 nets: min 1.17 max 1.41
+median b2 over nets per layer 1..14: [1.66 1.45 1.37 1.31 1.28 1.28 1.27 1.25 1.27 1.27 1.29 1.3  1.31 1.33]
+median b1 over nets per layer 1..14: [0.0099 0.0142 0.0178 0.0202 0.0224 0.0242 0.0252 0.0262 0.0269 0.0265
+ 0.0258 0.0257 0.025  0.0243]
+l=14 R2 radial 0.45-0.65, two-term 0.65-0.81
+l=14 radial row scale / global, |a|<0.75 median 0.61 range 0.56-0.67
+l=14 radial row scale / global, 0.75-1.5 median 0.66 range 0.57-0.75
+l=14 radial row scale / global, 1.5-2.5  median 0.77 range 0.72-0.90
+l=14 radial row scale / global, 2.5-4    median 0.99 range 0.93-1.10
+l=14 radial row scale / global, >4       median 1.24 range 1.15-1.36
+fixed-coefficient (joint table, b2=1) R2 at l=14: 0.63-0.79 (median 0.73); per-net LS two-term median 0.75
+gap LS-two minus fixed, l=14: 0.013-0.044 (median 0.023); all layers: 0.001-0.049 (median 0.007)

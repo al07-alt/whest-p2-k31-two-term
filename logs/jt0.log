@@ -1,0 +1,4 @@
+0 model:rad                final 2.4680e-08 L8 7.25e-09 L12 1.46e-08 232s
+0 model:rad+tree           final 2.3952e-08 L8 7.19e-09 L12 1.43e-08 224s
+0 model:rad+births         final 2.6960e-08 L8 7.69e-09 L12 1.59e-08 209s
+0 model:rad+tree+births    final 2.5600e-08 L8 7.47e-09 L12 1.53e-08 217s

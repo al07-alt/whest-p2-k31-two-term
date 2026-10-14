@@ -1,0 +1,21 @@
+fit4cov 0 final 2.310e-08 all 9.140e-09 flops 5.873e+11 (26.71%) resid 3029ms wall 77.8s
+fit4cov 1 final 2.170e-08 all 8.809e-09 flops 5.873e+11 (26.71%) resid 3586ms wall 76.4s
+fit4cov 2 final 2.518e-08 all 9.705e-09 flops 5.873e+11 (26.71%) resid 2701ms wall 71.6s
+w1cov 0 FAILED:   File "/home/claude/submission_v4k/estimator.py", line 1210, in _predict_core
+    from scipy.special import ndtr as _ndtr
+ModuleNotFoundError: No module named 'scipy'
+w1cov 1 FAILED:   File "/home/claude/submission_v4k/estimator.py", line 1210, in _predict_core
+    from scipy.special import ndtr as _ndtr
+ModuleNotFoundError: No module named 'scipy'
+w1cov 2 FAILED:   File "/home/claude/submission_v4k/estimator.py", line 1210, in _predict_core
+    from scipy.special import ndtr as _ndtr
+ModuleNotFoundError: No module named 'scipy'
+w5cov 0 FAILED:   File "/home/claude/submission_v4k/estimator.py", line 1210, in _predict_core
+    from scipy.special import ndtr as _ndtr
+ModuleNotFoundError: No module named 'scipy'
+w5cov 1 FAILED:   File "/home/claude/submission_v4k/estimator.py", line 1210, in _predict_core
+    from scipy.special import ndtr as _ndtr
+ModuleNotFoundError: No module named 'scipy'
+w5cov 2 FAILED:   File "/home/claude/submission_v4k/estimator.py", line 1210, in _predict_core
+    from scipy.special import ndtr as _ndtr
+ModuleNotFoundError: No module named 'scipy'

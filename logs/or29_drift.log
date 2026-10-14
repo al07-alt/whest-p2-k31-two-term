@@ -1,0 +1,2 @@
+base_rerun 3 final 2.500e-08 all 8.877e-09 flops 5.873e+11 (26.71%) resid 599ms wall 67.0s
+base_rerun 4 final 2.205e-08 all 8.767e-09 flops 5.873e+11 (26.71%) resid 637ms wall 72.3s

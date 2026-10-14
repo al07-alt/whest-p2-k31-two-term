@@ -1,0 +1,12 @@
+== rows3
+1 final 2.431e-08 all 9.528e-09 flops 5.873e+11 (26.71%) resid 605ms wall 70.9s
+2 final 2.955e-08 all 1.088e-08 flops 5.585e+11 (25.40%) resid 585ms wall 91.3s
+3 final 2.725e-08 all 9.687e-09 flops 5.554e+11 (25.26%) resid 638ms wall 93.3s
+== rows2.5
+1 final 4.051e-08 all 1.988e-08 flops 5.873e+11 (26.71%) resid 621ms wall 70.2s
+2 final 4.974e-08 all 2.273e-08 flops 5.585e+11 (25.40%) resid 574ms wall 91.0s
+3 final 4.923e-08 all 2.050e-08 flops 5.554e+11 (25.26%) resid 586ms wall 89.9s
+== rows3+kink3nofeed
+1 final 2.337e-08 all 9.389e-09 flops 5.873e+11 (26.71%) resid 631ms wall 73.0s
+2 final 3.000e-08 all 1.099e-08 flops 5.585e+11 (25.40%) resid 624ms wall 92.1s
+3 final 2.730e-08 all 9.784e-09 flops 5.554e+11 (25.26%) resid 634ms wall 92.6s

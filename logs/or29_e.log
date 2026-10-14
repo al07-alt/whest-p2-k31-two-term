@@ -1,0 +1,6 @@
+fit5 0 final 2.364e-08 all 9.218e-09 flops 5.873e+11 (26.71%) resid 2328ms wall 78.1s
+fit5 1 final 2.129e-08 all 8.688e-09 flops 5.873e+11 (26.71%) resid 1982ms wall 88.4s
+fit5 2 final 2.534e-08 all 9.734e-09 flops 5.873e+11 (26.71%) resid 2046ms wall 68.0s
+fit6 0 final 2.362e-08 all 9.215e-09 flops 5.873e+11 (26.71%) resid 3038ms wall 74.2s
+fit6 1 final 2.124e-08 all 8.681e-09 flops 5.873e+11 (26.71%) resid 3294ms wall 73.2s
+fit6 2 final 2.535e-08 all 9.738e-09 flops 5.873e+11 (26.71%) resid 3548ms wall 106.0s

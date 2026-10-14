@@ -1,0 +1,12 @@
+== k4k3 0.7 all
+1 final 2.041e-08 all 8.447e-09 flops 5.873e+11 (26.71%) resid 620ms wall 100.5s
+2 final 2.708e-08 all 1.000e-08 flops 5.585e+11 (25.40%) resid 609ms wall 112.2s
+3 final 2.633e-08 all 9.202e-09 flops 5.554e+11 (25.26%) resid 591ms wall 103.5s
+== k4k3 0.7 last
+1 final 2.083e-08 all 8.540e-09 flops 5.873e+11 (26.71%) resid 582ms wall 84.8s
+2 final 2.595e-08 all 9.809e-09 flops 5.585e+11 (25.40%) resid 591ms wall 114.4s
+3 final 2.497e-08 all 8.878e-09 flops 5.554e+11 (25.26%) resid 576ms wall 103.5s
+== k4k3 0.35 all
+1 final 2.036e-08 all 8.418e-09 flops 5.873e+11 (26.71%) resid 609ms wall 88.1s
+2 final 2.642e-08 all 9.846e-09 flops 5.585e+11 (25.40%) resid 633ms wall 114.0s
+3 final 2.547e-08 all 8.978e-09 flops 5.554e+11 (25.26%) resid 594ms wall 103.9s

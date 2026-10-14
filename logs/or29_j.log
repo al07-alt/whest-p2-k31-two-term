@@ -1,0 +1,9 @@
+w1cov 0 final 2.737e-08 all 9.779e-09 flops 5.873e+11 (26.71%) resid 2447ms wall 81.3s
+w1cov 1 final 2.215e-08 all 8.826e-09 flops 5.873e+11 (26.71%) resid 1946ms wall 73.1s
+w1cov 2 final 2.795e-08 all 1.025e-08 flops 5.873e+11 (26.71%) resid 1937ms wall 72.0s
+w5cov 0 final 2.315e-08 all 9.106e-09 flops 5.873e+11 (26.71%) resid 4822ms wall 78.7s
+w5cov 1 final 2.138e-08 all 8.655e-09 flops 5.873e+11 (26.71%) resid 5633ms wall 80.8s
+w5cov 2 final 2.452e-08 all 9.574e-09 flops 5.873e+11 (26.71%) resid 4576ms wall 75.0s
+treecov 0 final 2.318e-08 all 8.964e-09 flops 7.679e+11 (34.92%) resid 468ms wall 74.1s
+treecov 1 final 2.062e-08 all 8.490e-09 flops 7.679e+11 (34.92%) resid 484ms wall 84.1s
+treecov 2 final 2.552e-08 all 9.670e-09 flops 7.679e+11 (34.92%) resid 629ms wall 176.1s
